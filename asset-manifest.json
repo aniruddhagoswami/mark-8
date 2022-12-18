@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://testaniruddhagoswami.github.io/csb-ipjt1k/static/css/main.63a743ef.chunk.css",
+    "main.js": "https://testaniruddhagoswami.github.io/csb-ipjt1k/static/js/main.6cfbdb57.chunk.js",
+    "main.js.map": "https://testaniruddhagoswami.github.io/csb-ipjt1k/static/js/main.6cfbdb57.chunk.js.map",
+    "runtime-main.js": "https://testaniruddhagoswami.github.io/csb-ipjt1k/static/js/runtime-main.d19e5e43.js",
+    "runtime-main.js.map": "https://testaniruddhagoswami.github.io/csb-ipjt1k/static/js/runtime-main.d19e5e43.js.map",
+    "static/js/2.5a147158.chunk.js": "https://testaniruddhagoswami.github.io/csb-ipjt1k/static/js/2.5a147158.chunk.js",
+    "static/js/2.5a147158.chunk.js.map": "https://testaniruddhagoswami.github.io/csb-ipjt1k/static/js/2.5a147158.chunk.js.map",
+    "index.html": "https://testaniruddhagoswami.github.io/csb-ipjt1k/index.html",
+    "static/css/main.63a743ef.chunk.css.map": "https://testaniruddhagoswami.github.io/csb-ipjt1k/static/css/main.63a743ef.chunk.css.map",
+    "static/js/2.5a147158.chunk.js.LICENSE.txt": "https://testaniruddhagoswami.github.io/csb-ipjt1k/static/js/2.5a147158.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d19e5e43.js",
+    "static/js/2.5a147158.chunk.js",
+    "static/css/main.63a743ef.chunk.css",
+    "static/js/main.6cfbdb57.chunk.js"
+  ]
+}
